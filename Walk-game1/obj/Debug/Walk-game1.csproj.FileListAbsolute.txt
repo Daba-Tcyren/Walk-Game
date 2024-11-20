@@ -1,0 +1,7 @@
+C:\Users\dabac\Source\Repos\Daba-Tcyren\Walk-Game\Walk-game1\bin\Debug\Walk-game1.exe.config
+C:\Users\dabac\Source\Repos\Daba-Tcyren\Walk-Game\Walk-game1\bin\Debug\Walk-game1.exe
+C:\Users\dabac\Source\Repos\Daba-Tcyren\Walk-Game\Walk-game1\bin\Debug\Walk-game1.pdb
+C:\Users\dabac\Source\Repos\Daba-Tcyren\Walk-Game\Walk-game1\obj\Debug\Walk-game1.csproj.AssemblyReference.cache
+C:\Users\dabac\Source\Repos\Daba-Tcyren\Walk-Game\Walk-game1\obj\Debug\Walk-game1.csproj.CoreCompileInputs.cache
+C:\Users\dabac\Source\Repos\Daba-Tcyren\Walk-Game\Walk-game1\obj\Debug\Walk-game1.exe
+C:\Users\dabac\Source\Repos\Daba-Tcyren\Walk-Game\Walk-game1\obj\Debug\Walk-game1.pdb
